@@ -2822,7 +2822,7 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #f3f3f3;
 		padding-right: 23em;
 	}
 
@@ -2843,7 +2843,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #f3f3f3;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
